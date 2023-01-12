@@ -1,4 +1,4 @@
 # camo-cafe-ar
-[model-viewer](/camo-cafe-ar/model-viewer/)
+[model-viewer](https://sugijotaro.github.io/camo-cafe-ar/model-viewer/)
 
-[geo-ar](/camo-cafe-ar/geo-ar/)
+[geo-ar](https://sugijotaro.github.io/camo-cafe-ar/geo-ar/)
